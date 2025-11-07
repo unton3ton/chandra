@@ -2,6 +2,8 @@
 
 Chandra is a highly accurate OCR model that converts images and PDFs into structured HTML/Markdown/JSON while preserving layout information.
 
+![](https://raw.githubusercontent.com/unton3ton/chandra/refs/heads/master/my_tests/AI.png)
+
 ## Features
 
 - Convert documents to markdown, html, or json with detailed layout information
