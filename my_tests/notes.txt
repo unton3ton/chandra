@@ -1,0 +1,27 @@
+pip install chandra-ocr
+
+# With VLLM
+chandra_vllm
+chandra input.pdf ./output
+
+# With HuggingFace
+chandra input.pdf ./output --method hf
+
+# Interactive streamlit app
+chandra_apppip install chandra-ocr
+
+# With VLLM
+chandra_vllm
+chandra input.pdf ./output
+
+# With HuggingFace
+chandra input.pdf ./output --method hf
+
+# Interactive streamlit app
+chandra_app
+
+2025-11-07 11:17:15.834 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
